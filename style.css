@@ -1,0 +1,21 @@
+#Web_1920__1 {
+    position: absolute;
+    width: auto;
+    height: auto;
+    background-color: white;
+}
+.Rectangle_1 {
+    fill: orange;
+    position: absolute;
+    overflow: hidden;
+    width: 1920px;
+    height: 87px;
+    left: 0px;
+    top: 13px;
+}
+.inline-block {
+    display: inline-block;
+}
+.bio {
+    text-align: middle;
+}
