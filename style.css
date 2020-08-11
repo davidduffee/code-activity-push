@@ -13,8 +13,12 @@
     left: 0px;
     top: 13px;
 }
+.navigation {
+    display: flex;
+}
 .inline-block {
-    display: inline-block;
+    align-items:inline-block
+}
 }
 .bio {
     text-align: middle;
